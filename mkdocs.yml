@@ -1,9 +1,9 @@
-site_name: Artificial Neural Networks and Deep Learning - EX1
+site_name: Artificial Neural Networks and Deep Learning
 #site_description: "Artificial Neural Networks and Deep Learning course at Insper"
 site_author: Castellucci, M.
-site_url: https://matheuscastellucci.github.io/ex1-data-matheusc1/
-repo_url: https://github.com/MatheusCastellucci/ex1-data-matheusc1
-repo_name: ex1-data-matheusc1
+site_url: https://matheuscastellucci.github.io/Neural-Network/
+repo_url: https://github.com/MatheusCastellucci/Neural-Network
+repo_name: Neural-Network
 
 theme:
   name: material
@@ -112,7 +112,7 @@ plugins:
       enable_creation_date: true
   - git-authors
   - git-committers:
-      repository: insper/ann-dl
+      repository: Neural-Network
       branch: main
       token: !ENV MKDOCS_GIT_COMMITTERS_APIKEY
   - search
