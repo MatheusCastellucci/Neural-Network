@@ -1,1 +1,1 @@
-# ex1-data-matheusc1
+# neural-network matheusc1
