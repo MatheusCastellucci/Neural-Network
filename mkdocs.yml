@@ -1,9 +1,9 @@
-#site_name: Artificial Neural Networks and Deep Learning
+site_name: Artificial Neural Networks and Deep Learning - EX1
 #site_description: "Artificial Neural Networks and Deep Learning course at Insper"
-#site_author: Sandmann, H.
-#site_url: https://insper.github.io/ann-dl
-#repo_url: https://github.com/insper/ann-dl
-#repo_name: insper/ann-dl
+site_author: Castellucci, M.
+site_url: https://matheuscastellucci.github.io/ex1-data-matheusc1/
+repo_url: https://github.com/MatheusCastellucci/ex1-data-matheusc1
+repo_name: ex1-data-matheusc1
 
 theme:
   name: material
