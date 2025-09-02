@@ -132,7 +132,7 @@ plugins:
       include_source: true    # Mostra o link para download
       kernel_name: python3    # Força um kernel específico
       show_input: true       # Oculta código de entrada
-      theme: dark             # Define tema (se usar mkdocs-material)
+      #theme: dark             # Define tema (se usar mkdocs-material)
       remove_tag_config:
         remove_input_tags: ["hide-input"]
         remove_all_outputs_tags: ["hide-output"]
