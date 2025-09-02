@@ -131,8 +131,7 @@ plugins:
       execute: true           # Executa os notebooks durante o build
       include_source: true    # Mostra o link para download
       kernel_name: python3    # Força um kernel específico
-      show_input: false       # Oculta código de entrada
-      no_input: false         # Exibe entradas, se desejado
+      show_input: true       # Oculta código de entrada
       theme: dark             # Define tema (se usar mkdocs-material)
       remove_tag_config:
         remove_input_tags: ["hide-input"]
@@ -153,17 +152,3 @@ nav:
   # - 2025.2: versions/2025.2/presentation.md
   - Exercises:
     - 1. Data: ./Exercicios/EX1/data.ipynb
-
-  - Versions:
-    - Terms and Conditions: versions/terms-and-conditions.md
-    - 2025.2:
-      - Presentation: ./versions/2025.2/main.md
-      - Exercises:
-        - 1. Data: ./versions/2025.2/exercises/data/main.md
-        - 2. Perceptron: ./versions/2025.2/exercises/perceptron/main.md
-        - 3. MLP: ./versions/2025.2/exercises/mlp/main.md
-        - 4. Metrics: ./versions/2025.2/exercises/metrics/main.md
-      - Projects:
-        - 1. Classification: ./versions/2025.2/projects/classification/main.md
-        - 2. Regression: ./versions/2025.2/projects/regression/main.md
-        - 3. Generative Models: ./versions/2025.2/projects/generative/main.md
