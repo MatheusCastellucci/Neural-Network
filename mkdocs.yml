@@ -149,6 +149,6 @@ extra_css:
 
 nav:
   - Ementa: index.md
-  # - 2025.2: versions/2025.2/presentation.md
   - Exercises:
     - 1. Data: ./Exercicios/EX1/data.ipynb
+    - 2. Perceptron: ./Exercicios/EX2/perceptron.ipynb
