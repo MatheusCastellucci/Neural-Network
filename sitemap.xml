@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://matheuscastellucci.github.io/Neural-Network/</loc>
-         <lastmod>2025-09-04</lastmod>
+         <lastmod>2025-09-09</lastmod>
     </url>
     <url>
          <loc>https://matheuscastellucci.github.io/Neural-Network/Exercicios/EX1/data/</loc>
-         <lastmod>2025-09-04</lastmod>
+         <lastmod>2025-09-09</lastmod>
+    </url>
+    <url>
+         <loc>https://matheuscastellucci.github.io/Neural-Network/Exercicios/EX2/perceptron/</loc>
+         <lastmod>2025-09-09</lastmod>
     </url>
 </urlset>
