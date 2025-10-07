@@ -153,3 +153,5 @@ nav:
     - 1. Data: ./Exercicios/EX1/data.ipynb
     - 2. Perceptron: ./Exercicios/EX2/perceptron.ipynb
     - 3. MLP: ./Exercicios/EX3/MLP.ipynb
+  - Projects:
+    - Project 1: ./Projetos/Projeto1/notebook.ipynb
