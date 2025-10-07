@@ -128,7 +128,7 @@ plugins:
         - "$"
         - ">"
   - mkdocs-jupyter:
-      execute: true           # Executa os notebooks durante o build
+      execute: false           # Executa os notebooks durante o build
       include_source: true    # Mostra o link para download
       kernel_name: python3    # Força um kernel específico
       show_input: true       # Oculta código de entrada
