@@ -204,5 +204,6 @@ __pycache__/
 .DS_Store
 .env
 
+/data/
 test.csv
 train.csv
